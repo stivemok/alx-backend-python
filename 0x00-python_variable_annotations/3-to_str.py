@@ -2,6 +2,6 @@
 """Basic annotation-to string"""
 
 
-def to_str (n: float) -> str:
+def to_str(n: float) -> str:
     """Returns string representation of a float"""
     return str(n)
